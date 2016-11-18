@@ -10,8 +10,6 @@
 
 [**This TMUX configuration**](https://github.com/posquit0/tmux-conf) is written by [posquit0](https://github.com/posquit0/) to improve the environment in TMUX.
 
-- If you want to override my configuration or add more configuration, just create `~/.tmux.conf.custom` and write your configurations for tmux.
-
 
 ## <a name="usage">Usage
 
