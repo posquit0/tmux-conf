@@ -4,7 +4,7 @@
 # http://www.posquit0.com/
 
 # TMUX Plugins
-.tmux/plugins
+plugins
 
 # TMUX environments
-.tmux/resurrect
+resurrect
