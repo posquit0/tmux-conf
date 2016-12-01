@@ -15,8 +15,9 @@
 
 ```sh
 $ cd ~
-$ git clone https://github.com/posquit0/tmux-conf ~/.tmux
+$ git clone --recursive https://github.com/posquit0/tmux-conf ~/.tmux
 $ ln -s .tmux/tmux.conf .tmux.conf
+$ ~/.tmux/plugins/tpm/scripts/install_plugins.sh
 ```
 
 ## <a name="contact">Contact
