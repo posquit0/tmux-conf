@@ -11,7 +11,7 @@
 [**This TMUX configuration**](https://github.com/posquit0/tmux-conf) is written by [posquit0](https://github.com/posquit0/) to improve the environment in TMUX.
 
 
-## <a name="usage">Usage
+## Usage
 
 ```sh
 $ cd ~
@@ -20,12 +20,14 @@ $ ln -s .tmux/tmux.conf .tmux.conf
 $ ~/.tmux/plugins/tpm/scripts/install_plugins.sh
 ```
 
-## <a name="contact">Contact
+
+## Contact
 
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
 
-## <a name="license">License
+## License
 
-- Claud D. Park <posquit0.bj@gmail.com>
-- [MIT Liense](https://github.com/posquit0/node-iamporter/blob/master/LICENSE)
+Provided under the terms of the [MIT License](https://github.com/posquit0/tmux-conf/blob/master/LICENSE).
+
+Copyright © 2017, [Byungjin Park](http://www.posquit0.com).
