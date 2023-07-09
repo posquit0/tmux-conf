@@ -21,18 +21,31 @@ $ ~/.tmux/plugins/tpm/scripts/install_plugins.sh
 ```
 
 
+## Contributing
+
+This project follows the [**Contributor Covenant**](http://contributor-covenant.org/version/1/4/) Code of Conduct.
+
+#### Bug Reports & Feature Requests
+
+Please use the [issue tracker](https://github.com/posquit0/tmux-conf/issues) to report any bugs or ask feature requests.
+
+
 ## Self Promotion
 
 Like this project? Follow the repository on [GitHub](https://github.com/posquit0/tmux-conf). And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
 
 
-## Contact
+## See Also
 
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
+- [brewfile](https://github.com/posquit0/brewfile) - Brewfile to install softwares in macOS for engineers.
+- [dotfiles](https://github.com/posquit0/dotfiles) - Awesome configurations for the development environments.
+- [gitconfig](https://github.com/posquit0/gitconfig) - Git configurations.
+- [vimrc](https://github.com/posquit0/vimrc) - Vim Configuration for nerds with vim-plug.
+- [zshrc](https://github.com/posquit0/zshrc) - Zsh Configuration for nerds with zplug.
 
 
 ## License
 
 Provided under the terms of the [MIT License](https://github.com/posquit0/tmux-conf/blob/master/LICENSE).
 
-Copyright © 2014-2021, [Byungjin Park](http://www.posquit0.com).
+Copyright © 2014-2023, [Byungjin Park](https://www.posquit0.com).
