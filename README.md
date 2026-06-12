@@ -15,10 +15,11 @@
 
 ```sh
 $ cd ~
-$ git clone --recursive https://github.com/posquit0/tmux-conf ~/.tmux
+$ git clone https://github.com/posquit0/tmux-conf ~/.tmux
 $ ln -s .tmux/tmux.conf .tmux.conf
-$ ~/.tmux/plugins/tpm/scripts/install_plugins.sh
 ```
+
+TPM and all plugins are installed automatically the first time tmux starts.
 
 
 ## Contributing
